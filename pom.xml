@@ -7,17 +7,17 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.kainos.ea</groupId>
-    <artifactId>DropWizardDemo</artifactId>
+    <artifactId>SoniakBew</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>DropWizardService</name>
+    <name>true</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <dropwizard.version>2.0.23</dropwizard.version>
-        <mainClass>org.kainos.ea.DropWizardServiceApplication</mainClass>
+        <mainClass>org.kainos.ea.trueApplication</mainClass>
     </properties>
 
     <dependencyManagement>
