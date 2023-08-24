@@ -1,26 +1,26 @@
 package org.kainos.ea.cli;
 
 public class DeliveryEmployee {
-    private int employeeId;
+    private int deliveryEmployeeId;
     private String name;
     private Double salary;
     private String bankAcc;
     private String niNumber;
 
-    public DeliveryEmployee(int employeeId, String name, Double salary, String bankAcc, String niNumber) {
-        this.employeeId = employeeId;
+    public DeliveryEmployee(int deliveryEmployeeId, String name, Double salary, String bankAcc, String niNumber) {
+        this.deliveryEmployeeId = deliveryEmployeeId;
         this.name = name;
         this.salary = salary;
         this.bankAcc = bankAcc;
         this.niNumber = niNumber;
     }
 
-    public int getEmployeeId() {
-        return employeeId;
+    public int getDeliveryEmployeeId() {
+        return deliveryEmployeeId;
     }
 
-    public void setEmployeeId(int employeeId) {
-        this.employeeId = employeeId;
+    public void setDeliveryEmployeeId(int deliveryEmployeeId) {
+        this.deliveryEmployeeId = deliveryEmployeeId;
     }
 
     public String getName() {
