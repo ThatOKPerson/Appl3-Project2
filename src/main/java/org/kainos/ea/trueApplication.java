@@ -25,5 +25,4 @@ public class trueApplication extends Application<trueConfiguration> {
                     final Environment environment) {
         // TODO: implement application
     }
-
 }
